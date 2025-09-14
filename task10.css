@@ -1,0 +1,7 @@
+div{
+
+    border: 1px solid red;
+    padding: 10px;
+    box-shadow: 3px -3px blue , 7px -7px green ,10px -10px purple; 
+    margin: 20px;
+}

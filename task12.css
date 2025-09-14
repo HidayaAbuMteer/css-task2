@@ -1,0 +1,9 @@
+div{
+     border: 10px solid transparent;
+    border-image:url(images.jpg) 30 round;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+
+}

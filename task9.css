@@ -1,0 +1,12 @@
+.inner{
+    border: 3px dotted red ;
+    background-color: rgb(236, 178, 178);
+    padding: 10px;
+    margin: 10px;
+
+}
+.outer{
+    border: 3px solid blue;
+    padding: 10px;
+    margin: 15px;
+}
