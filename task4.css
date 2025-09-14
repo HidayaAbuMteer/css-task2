@@ -1,0 +1,25 @@
+div{
+         text-align:center;
+     
+     height: 100px;
+     width:150px;
+     line-height: 100px;
+     margin :15px;
+}
+.b{
+        border: 3px solid blue;
+
+}
+.o{
+        outline: 3px solid red;
+
+}
+.b-o{
+    border: 3px solid blue;
+    outline: 3px dotted red;
+}
+.o-off{
+    border: 3px solid green;
+    outline:3px solid orange ;
+    outline-offset:5px;
+}
